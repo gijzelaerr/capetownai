@@ -1,0 +1,124 @@
+Variable ID,Question,Values
+ID,Unique respondent ID,<String>
+Q1,Age,<Number>
+Q2,gender,1 Male
+Q2,gender,2 Female
+Q3,Marital status,1 Married
+Q3,Marital status,2 Divorced
+Q3,Marital status,3 Widowed
+Q3,Marital status,4 Single/never married
+Q4,Highest level of education completed?,1 No formal education
+Q4,Highest level of education completed?,2 Some primary
+Q4,Highest level of education completed?,3 Primary completed
+Q4,Highest level of education completed?,4 Post primary technical training
+Q4,Highest level of education completed?,5 Some secondary
+Q4,Highest level of education completed?,6 University or other higher education
+Q4,Highest level of education completed?,7 Don’t know
+Q5,Which of the following applies to you? Read out; Single response,1 You personally own the land/plot where you live
+Q5,Which of the following applies to you? Read out; Single response,2 You own the land/plot together with someone else
+Q5,Which of the following applies to you? Read out; Single response,3 A household member owns the land/plot
+Q5,Which of the following applies to you? Read out; Single response,4 The land/plot is rented
+Q5,Which of the following applies to you? Read out; Single response,5 You don’t own or rent the land
+Q5,Which of the following applies to you? Read out; Single response,6 Don’t know
+Q6,Do you personally own land (other than the land you live on) that you have land certificates of ownership for?,1 Yes
+Q6,Do you personally own land (other than the land you live on) that you have land certificates of ownership for?,2 No
+Q7,Do you personally own a mobile phone?,1 Yes
+Q7,Do you personally own a mobile phone?,2 No
+Q8_1 through Q8_11,"Different people have different ways of getting money, please tell me how you get the money you spend?",
+Q8_1 through Q8_11,Multiple mention possible,
+Q8_1,Salaries/wages,1 Yes
+Q8_1,Salaries/wages,0 No
+Q8_2,Money from trading/selling   Anything you produce/grow/raise/make/collect with the intention of selling,1 Yes
+Q8_2,Money from trading/selling   Anything you produce/grow/raise/make/collect with the intention of selling,0 No
+Q8_3,"Money from providing a service – i.e. such as transport, hairdressing, processing, hospitality services (food & accommodation)",1 Yes
+Q8_3,"Money from providing a service – i.e. such as transport, hairdressing, processing, hospitality services (food & accommodation)",0 No
+Q8_4,Piece work/Casual labor/Occasional jobs,1 Yes
+Q8_4,Piece work/Casual labor/Occasional jobs,0 No
+Q8_5,Rental income,1 Yes
+Q8_5,Rental income,0 No
+Q8_6,"Interest from savings, investments, stocks, unit trusts etc.",1 Yes
+Q8_6,"Interest from savings, investments, stocks, unit trusts etc.",0 No
+Q8_7,Pension,1 Yes
+Q8_7,Pension,0 No
+Q8_8,Social welfare money/grant from Government,1 Yes
+Q8_8,Social welfare money/grant from Government,0 No
+Q8_9,Rely on someone else/others to give/send me money,1 Yes
+Q8_9,Rely on someone else/others to give/send me money,0 No
+Q8_10,Don’t get money – someone else pays my expenses,1 Yes
+Q8_10,Don’t get money – someone else pays my expenses,0 No
+Q8_11,Other,1 Yes
+Q8_11,Other,0 No
+Q9,Only for those who said they get a salary/wages. Who do you work for?  ,-1 not applicable
+Q9,Only for those who said they get a salary/wages. Who do you work for?  ,1 Government
+Q9,Only for those who said they get a salary/wages. Who do you work for?  ,2 Private company/business
+Q9,Only for those who said they get a salary/wages. Who do you work for?  ,3 Individual who owns his own business
+Q9,Only for those who said they get a salary/wages. Who do you work for?  ,4 Small scale farmer
+Q9,Only for those who said they get a salary/wages. Who do you work for?  ,5 Commercial farmer
+Q9,Only for those who said they get a salary/wages. Who do you work for?  ,"6 Work for individual/household e.g. security guard, maid etc."
+Q9,Only for those who said they get a salary/wages. Who do you work for?  ,7 Other
+Q10,Only for those who said they get money from selling things – what kind of things do you MAINLY sell (get most money from)?,-1 not applicable
+Q10,Only for those who said they get money from selling things – what kind of things do you MAINLY sell (get most money from)?,1 Crops/produce I grow
+Q10,Only for those who said they get money from selling things – what kind of things do you MAINLY sell (get most money from)?,2 Products I get from livestock
+Q10,Only for those who said they get money from selling things – what kind of things do you MAINLY sell (get most money from)?,3 Livestock
+Q10,Only for those who said they get money from selling things – what kind of things do you MAINLY sell (get most money from)?,4 Fish you catch yourself/aquaculture
+Q10,Only for those who said they get money from selling things – what kind of things do you MAINLY sell (get most money from)?,5 Things you buy from others – agricultural products
+Q10,Only for those who said they get money from selling things – what kind of things do you MAINLY sell (get most money from)?,6 Things you buy from others – non-agricultural products
+Q10,Only for those who said they get money from selling things – what kind of things do you MAINLY sell (get most money from)?,"7 Things you make (clothes, art, crafts)"
+Q10,Only for those who said they get money from selling things – what kind of things do you MAINLY sell (get most money from)?,"8 Things you collect from nature (stones, sand, thatch, herbs)"
+Q10,Only for those who said they get money from selling things – what kind of things do you MAINLY sell (get most money from)?,"9 Things you process (honey, dairy products, flour)"
+Q10,Only for those who said they get money from selling things – what kind of things do you MAINLY sell (get most money from)?,10 Other
+Q11,Only for those who said they get money from providing a service – what kind of services do you MAINLY provide (get most money from)?,-1 not applicable
+Q11,Only for those who said they get money from providing a service – what kind of services do you MAINLY provide (get most money from)?,"1 Personal services (hairdressers, massage, etc.)"
+Q11,Only for those who said they get money from providing a service – what kind of services do you MAINLY provide (get most money from)?,2 Telecommunications/IT
+Q11,Only for those who said they get money from providing a service – what kind of services do you MAINLY provide (get most money from)?,3 Financial services
+Q11,Only for those who said they get money from providing a service – what kind of services do you MAINLY provide (get most money from)?,4 Transport
+Q11,Only for those who said they get money from providing a service – what kind of services do you MAINLY provide (get most money from)?,"5 Hospitality – Accommodation, restaurants, etc."
+Q11,Only for those who said they get money from providing a service – what kind of services do you MAINLY provide (get most money from)?,6 Information/research
+Q11,Only for those who said they get money from providing a service – what kind of services do you MAINLY provide (get most money from)?,"7 Technical – mechanic, etc."
+Q11,Only for those who said they get money from providing a service – what kind of services do you MAINLY provide (get most money from)?,8 Educational/child care
+Q11,Only for those who said they get money from providing a service – what kind of services do you MAINLY provide (get most money from)?,9 Health services – traditional healer etc.
+Q11,Only for those who said they get money from providing a service – what kind of services do you MAINLY provide (get most money from)?,10 Legal services
+Q11,Only for those who said they get money from providing a service – what kind of services do you MAINLY provide (get most money from)?,11 Security
+Q11,Only for those who said they get money from providing a service – what kind of services do you MAINLY provide (get most money from)?,"12 Other, specify"
+Q12,"In the past 12 months, have you sent money to someone in a different place within the country or outside of Tanzania?",1 Yes
+Q12,"In the past 12 months, have you sent money to someone in a different place within the country or outside of Tanzania?",2 No
+Q13,When did you last send money?,-1 not applicable
+Q13,When did you last send money?,1 Yesterday/today
+Q13,When did you last send money?,2 In the past 7 days
+Q13,When did you last send money?,3 In the past 30 days
+Q13,When did you last send money?,4 In the past 90 days
+Q13,When did you last send money?,5 More than 90 days ago but less than 6 months ago 
+Q13,When did you last send money?,6 6 months or longer ago
+Q14,"In the past 12 months, have you received money from someone in a different place within the country or from outside the country?",1 Yes
+Q14,"In the past 12 months, have you received money from someone in a different place within the country or from outside the country?",2 No
+Q15,When did you last receive money?,-1 not applicable
+Q15,When did you last receive money?,1 Yesterday/today
+Q15,When did you last receive money?,2 In the past 7 days
+Q15,When did you last receive money?,3 In the past 30 days
+Q15,When did you last receive money?,4 In the past 90 days
+Q15,When did you last receive money?,5 More than 90 days ago but less than 6 months ago 
+Q15,When did you last receive money?,6 6 months or longer ago
+Q18,Literacy in Kiswhahili,1 Can read and write 
+Q18,Literacy in Kiswhahili,2 Can read only 
+Q18,Literacy in Kiswhahili,3 Can write only 
+Q18,Literacy in Kiswhahili,4 Can neither read nor write 
+Q18,Literacy in Kiswhahili,5 Refused to read
+Q19,Literacy in English,1 Can read and write 
+Q19,Literacy in English,2 Can read only 
+Q19,Literacy in English,3 Can write only 
+Q19,Literacy in English,4 Can neither read nor write 
+Q19,Literacy in English,5 Refused to read
+Latitude,Approximate latitude,Number
+Longitude,Approximate longitude,Number
+Mobile_money,Do you use mobile money?,1 Yes
+Mobile_money,Do you use mobile money?,0 No
+Savings,Do you save?,1 Yes
+Savings,Do you save?,0 No
+Borrowing,Do you borrow?,1 Yes
+Borrowing,Do you borrow?,0 No
+Insurance,Do you have insurance?,1 Yes
+Insurance,Do you have insurance?,0 No
+Mobile_money_classification,Mobile_money_classification,"0 no mobile money and no other financial service (saving, borrowing, insurance)"
+Mobile_money_classification,Mobile_money_classification,"1 no mobile money, but at least one other financial service"
+Mobile_money_classification,Mobile_money_classification,2 mobile money only
+Mobile_money_classification,Mobile_money_classification,3 mobile money and at least one other financial service
